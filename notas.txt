@@ -1,0 +1,28 @@
+ Express Framework de Nodejs, Curso para principiantes (Javascript en el backend)
+
+1 el comando para hacer correr un archivo
+    node index.js
+
+2 la pagina de npm isnstalamos Express
+    npm i express
+
+NOTA: cuando desarrollamos aplicaciones con express
+estamos desarrollando aplicaciones backend
+    - tener muy presento el modelo cliente servidor
+    - vamos a usar el protocolo http cliente servidor
+    - request es del cliente
+    - response es del servidor
+    - toda la comunicacion se la hace mediante el protocolo http
+    - como se crea el cliente con Framework que nos permite crear interfaces:
+        - react
+        - angular 
+        - svelt
+El servidor lo podemos crear con leguajes de programacion pero
+    - Vamos a utilizar Nodejs para crear nuestro servidor con Javascript
+    - para ahorrar trabajo utilizaremos express
+        - rapida
+        - creciendo 
+        - que sea excalable
+    -encima de Nodejs vamos agregar express
+pero vamos a utilizar nodejs para ejecutar codigo de Javascript
+    - que nos permitira crear nuestro servidor web
